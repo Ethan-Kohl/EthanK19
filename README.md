@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanK19
 - 👀 I’m interested in smart home technology
-- 🌱 I’m currently studying Computer Science at Judson University
+- 🌱 I’m currently working as a Software Engineer for Anguleris
 - 📫 How to reach me ethankohl19@gmail.com
 
 <!---
